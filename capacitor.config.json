@@ -1,0 +1,12 @@
+{
+  "appId": "com.bbt.pos.tirupati",
+  "appName": "BBT POS",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "android": {
+    "allowMixedContent": true
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
