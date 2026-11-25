@@ -1,0 +1,15 @@
+{
+  "name": "bbt-pos-system",
+  "version": "1.0.0",
+  "description": "BBT Main Godown & Stall POS System",
+  "scripts": {
+    "build": "echo 'Web assets ready'"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
